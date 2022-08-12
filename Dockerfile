@@ -9,3 +9,5 @@ RUN npm i
 COPY . .
 
 CMD [ "npm", "npm run start:dev" ]
+
+EXPOSE 8009
