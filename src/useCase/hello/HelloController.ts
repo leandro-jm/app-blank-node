@@ -1,3 +1,4 @@
+import { doesNotThrow } from "assert";
 import { Get, Route } from "tsoa";
 
 interface HelloResponse {
