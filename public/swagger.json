@@ -22,9 +22,9 @@
 		"securitySchemes": {}
 	},
 	"info": {
-		"title": "app-blank",
+		"title": "Niby-bff",
 		"version": "1.0.0",
-		"description": "App template Node, Express, TypeScript, DotEnv COnfig, API and Swagger",
+		"description": "Niby bff application.",
 		"license": {
 			"name": "ISC"
 		},

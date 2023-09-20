@@ -1,6 +1,7 @@
 import express from "express";
-import { router } from "./router";
 import swaggerUi from "swagger-ui-express";
+
+import {routerHello} from "./useCase/hello/HelloRouter";
 
 export class App{
     
@@ -19,7 +20,7 @@ export class App{
   }
 
   private router(){
-    this.server.use(router);
+    this.server.use('/hello', routerHello);
   }
 
   private swagger(){
