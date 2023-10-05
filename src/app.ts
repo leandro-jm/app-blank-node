@@ -1,13 +1,16 @@
 import express from "express";
 import swaggerUi from "swagger-ui-express";
 
-import {routerHello} from "./useCase/hello/HelloRouter";
+import {logger} from "./config/LogWinston";
+
+import {routerUser} from "./useCase//user/UserRouter";
 
 export class App{
     
   public server: express.Application = express();
 
   constructor(){
+    
     this.server;
     this.middleware();
     this.router();
@@ -16,14 +19,19 @@ export class App{
   }
 
   private middleware(){
+    logger.debug("Start middleware...")
     this.server.use(express.json());
   }
 
   private router(){
-    this.server.use('/hello', routerHello);
+    logger.debug("Start routers...")
+
+    this.server.use('/user', routerUser);
   }
 
   private swagger(){
+
+    logger.debug("Start swagger documentation...")
 
     this.server.use("/docs",
                     swaggerUi.serve,

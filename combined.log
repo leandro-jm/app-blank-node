@@ -1,0 +1,160 @@
+{"level":"info","message":"Iniciando server...","service":"user-service","timestamp":"2023-10-05T13:19:15.195Z"}
+{"level":"info","message":"Iniciando server...","timestamp":"2023-10-05T13:25:04.754Z"}
+{"level":"info","message":"Iniciando server...","timestamp":"2023-10-05T13:25:19.635Z"}
+{"level":"debug","message":"Iniciando middleware...","timestamp":"2023-10-05T13:32:58.355Z"}
+{"level":"debug","message":"Iniciando middleware...","service":"niby-bff","timestamp":"2023-10-05T13:41:54.281Z"}
+{"level":"debug","message":"Iniciando middleware...","service":"niby-bff","timestamp":"2023-10-05T13:43:02.431Z"}
+{"level":"debug","message":"Iniciando middleware...","service":"niby-bff","timestamp":"2023-10-05T13:44:00.163Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T13:46:40.582Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T13:46:40.583Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T13:46:40.583Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T13:49:50.510Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T13:49:50.511Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T13:49:50.511Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T13:53:50.114Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T13:53:50.118Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T13:53:50.118Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T13:54:04.623Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T13:54:04.625Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T13:54:04.625Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:06:12.229Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:06:12.231Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:06:12.231Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:06:24.378Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:06:24.380Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:06:24.380Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:13:58.165Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:13:58.167Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:13:58.167Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:18:02.439Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:18:02.440Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:18:02.441Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:18:21.655Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:18:21.657Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:18:21.657Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:19:10.101Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:19:10.103Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:19:10.103Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:19:38.502Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:19:38.503Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:19:38.503Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:20:21.219Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:20:21.220Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:20:21.220Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:20:38.968Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:20:38.970Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:20:38.970Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:22:25.710Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:22:25.711Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:22:25.711Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:26:31.436Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:26:31.438Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:26:31.438Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:29:21.249Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:29:21.251Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:29:21.251Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:29:39.840Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:29:39.841Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:29:39.841Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:30:11.279Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:30:11.280Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:30:11.280Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:30:18.880Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:30:18.881Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:30:18.881Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T17:58:50.020Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T17:58:50.025Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T17:58:50.025Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:04:38.459Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:04:38.461Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:04:38.461Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:05:16.478Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:05:16.479Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:05:16.479Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:06:28.197Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:06:28.199Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:06:28.199Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:12:50.503Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:12:50.505Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:12:50.505Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:14:20.211Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:14:20.212Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:14:20.213Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:19:18.911Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:19:18.919Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:19:18.919Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:19:25.249Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:19:25.251Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:19:25.251Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:19:32.553Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:19:32.555Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:19:32.556Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:20:14.226Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:20:14.230Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:20:14.231Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:20:38.377Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:20:38.378Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:20:38.379Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:20:53.720Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:20:53.722Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:20:53.722Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:21:30.890Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:21:30.892Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:21:30.892Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:21:34.483Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:21:34.484Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:21:34.485Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:21:59.504Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:21:59.506Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:21:59.506Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:22:42.827Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:22:42.829Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:22:42.829Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:22:57.670Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:22:57.675Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:22:57.676Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:24:41.697Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:24:41.699Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:24:41.699Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:32:37.760Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:32:37.764Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:32:37.765Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:32:52.565Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:32:52.567Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:32:52.567Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:33:21.537Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:33:21.539Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:33:21.539Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:34:06.770Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:34:06.772Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:34:06.772Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:34:59.340Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:34:59.343Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:34:59.344Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:35:03.333Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:35:03.335Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:35:03.335Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:35:51.518Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:35:51.520Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:35:51.520Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:36:30.217Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:36:30.218Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:36:30.219Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:37:38.634Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:37:38.636Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:37:38.636Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:38:04.632Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:38:04.634Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:38:04.634Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:38:39.371Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:38:39.372Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:38:39.372Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:50:39.822Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:50:39.824Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:50:39.824Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:56:37.025Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:56:37.026Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:56:37.026Z"}
+{"level":"debug","message":"Start middleware...","service":"niby-bff","timestamp":"2023-10-05T18:56:53.891Z"}
+{"level":"debug","message":"Start routers...","service":"niby-bff","timestamp":"2023-10-05T18:56:53.892Z"}
+{"level":"debug","message":"Start swagger documentation...","service":"niby-bff","timestamp":"2023-10-05T18:56:53.892Z"}
