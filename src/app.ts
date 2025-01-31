@@ -3,8 +3,6 @@ import swaggerUi from "swagger-ui-express";
 
 import {logger} from "./config/LogWinston";
 
-import {routerUser} from "./useCase//user/UserRouter";
-
 export class App{
     
   public server: express.Application = express();
@@ -26,7 +24,6 @@ export class App{
   private router(){
     logger.debug("Start routers...")
 
-    this.server.use('/user', routerUser);
   }
 
   private swagger(){
